@@ -1,0 +1,23 @@
+section{
+padding-top: 5rem;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #D9E7FF;
+}
+
+.jumbotron img {
+    width: 200px;
+    width: min(240px, 80%);
+    border-radius: 100%;
+}
+
+#portfolio {
+    background-color: #D9E7FF;
+}
+
+footer {
+    background-color: #191970;
+    color: white;
+}
